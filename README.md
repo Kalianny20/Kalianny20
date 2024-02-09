@@ -36,15 +36,7 @@
 
 ## ⚙️ GitHub Analytics
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center;">
-  <a href="https://github.com/Kalianny20" style="flex: 1; text-align: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalianny20&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  </a>
-
-   <img height="170em" src="https://media.tenor.com/TMty1-yAfk8AAAAi/jumin-wipe.gif" alt="melancólico" style="flex: 1;">
-</div>
-
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kalianny20&show_icons=true&theme=midnight-purple&title_color=blue&icon_color=blue) <img height="170em" src="https://media.tenor.com/TMty1-yAfk8AAAAi/jumin-wipe.gif" alt="melancólico" style="flex: 1;">
 -----
 
 ### ❤️ Coisas que amo fazer
